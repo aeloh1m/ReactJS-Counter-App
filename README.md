@@ -1,5 +1,4 @@
-# ReactJS-mini-app
-
+# ReactJS-Counter-App
 > Sample of a simple counter app made with ReactJS <br />
 
 ## Table of Contents
