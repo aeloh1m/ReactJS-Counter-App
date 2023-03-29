@@ -16,7 +16,7 @@
     
 ## Display of the deployed project
 
- - You can check it out at: https://reactcounterapp1.herokuapp.com/ 
+ - You can check it out at: https://react-test-app-aeloh1m-of1us1mu0-aeloh1m.vercel.app/
     
 ## Contact
 - Created by: 
